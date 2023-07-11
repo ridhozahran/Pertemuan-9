@@ -1,0 +1,8 @@
+C:\pemrog\ConsoleApp09\Prak9\obj\Debug\Prak9.csproj.AssemblyReference.cache
+C:\pemrog\ConsoleApp09\Prak9\obj\Debug\Prak9.csproj.SuggestedBindingRedirects.cache
+C:\pemrog\ConsoleApp09\Prak9\obj\Debug\Prak9.csproj.CoreCompileInputs.cache
+C:\pemrog\ConsoleApp09\Prak9\bin\Debug\Prak9.exe.config
+C:\pemrog\ConsoleApp09\Prak9\bin\Debug\Prak9.exe
+C:\pemrog\ConsoleApp09\Prak9\bin\Debug\Prak9.pdb
+C:\pemrog\ConsoleApp09\Prak9\obj\Debug\Prak9.exe
+C:\pemrog\ConsoleApp09\Prak9\obj\Debug\Prak9.pdb
